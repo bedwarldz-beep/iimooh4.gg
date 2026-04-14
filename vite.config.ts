@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig(async () => {
   const plugins = [react(), tailwindcss()];
-   base: "/h4imooh/"
+   base: "/iimooh4.gg/"
   try {
     // @ts-ignore
     const m = await import('./.vite-source-tags.js');
